@@ -1,5 +1,6 @@
 # Test task for "PUZZLE PRODUCTION"
-developer: Артамонов Артём Александрович
+developer: Артамонов Артём Александрович<br>
+telegram: @andrey_riwall
 
 ## Npm scripts
 Start development server
